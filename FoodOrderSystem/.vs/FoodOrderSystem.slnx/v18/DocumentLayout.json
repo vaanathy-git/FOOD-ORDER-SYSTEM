@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|solutionrelative:FoodOrderSystem\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|solutionrelative:FoodOrderSystem\\HomeForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|solutionrelative:FoodOrderSystem\\LoginForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|solutionrelative:FoodOrderSystem\\LoginForm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE94282E-929D-68A8-3904-664E5B402885}|FoodOrderSystem\\FoodOrderSystem.vcxproj|solutionrelative:FoodOrderSystem\\LoginForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 265,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\HomeForm.h",
+              "RelativeDocumentMoniker": "FoodOrderSystem\\HomeForm.h",
+              "ToolTip": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\HomeForm.h [Design]",
+              "RelativeToolTip": "FoodOrderSystem\\HomeForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T18:18:25.636Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h",
+              "RelativeDocumentMoniker": "FoodOrderSystem\\LoginForm.h",
+              "ToolTip": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h [Design]",
+              "RelativeToolTip": "FoodOrderSystem\\LoginForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T13:17:58.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.h",
+              "DocumentMoniker": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h",
+              "RelativeDocumentMoniker": "FoodOrderSystem\\LoginForm.h",
+              "ToolTip": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.h",
+              "RelativeToolTip": "FoodOrderSystem\\LoginForm.h",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAwOUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-12T12:53:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.resx",
+              "RelativeDocumentMoniker": "FoodOrderSystem\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.resx",
+              "RelativeToolTip": "FoodOrderSystem\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-12T12:50:00.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cpp",
+              "DocumentMoniker": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.cpp",
+              "RelativeDocumentMoniker": "FoodOrderSystem\\LoginForm.cpp",
+              "ToolTip": "C:\\Users\\Kavee\\source\\repos\\FoodOrderSystem\\FoodOrderSystem\\LoginForm.cpp",
+              "RelativeToolTip": "FoodOrderSystem\\LoginForm.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T12:48:13.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 135,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

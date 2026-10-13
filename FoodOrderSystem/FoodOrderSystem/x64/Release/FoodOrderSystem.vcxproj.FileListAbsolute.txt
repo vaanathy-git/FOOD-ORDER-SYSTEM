@@ -1,0 +1,3 @@
+C:\Users\Kavee\source\repos\FoodOrderSystem\FoodOrderSystem\x64\Release\FoodOrderSystem.vcxproj.AssemblyReference.cache
+C:\Users\Kavee\source\repos\FoodOrderSystem\FoodOrderSystem\x64\Release\FoodOrderSystem.LoginForm.resources
+C:\Users\Kavee\source\repos\FoodOrderSystem\FoodOrderSystem\x64\Release\FoodOrderSystem.vcxproj.GenerateResource.cache

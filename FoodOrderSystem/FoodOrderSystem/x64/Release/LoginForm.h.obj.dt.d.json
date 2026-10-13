@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kavee\\source\\repos\\foodordersystem\\foodordersystem\\loginform.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\kavee\\source\\repos\\foodordersystem\\foodordersystem\\homeform.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
